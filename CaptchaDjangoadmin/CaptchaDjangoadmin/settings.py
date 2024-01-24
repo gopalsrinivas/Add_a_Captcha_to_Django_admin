@@ -57,6 +57,7 @@ MULTI_CAPTCHA_ADMIN = {
     'engine': 'simple-captcha',
 }
 
+
 ROOT_URLCONF = "CaptchaDjangoadmin.urls"
 
 TEMPLATES = [

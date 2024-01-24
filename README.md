@@ -26,6 +26,8 @@ INSTALLED_APPS = [
 Step: 4
 --------
 pip install django-simple-captcha
+pip install django-recaptcha2
+
 
 Step:5
 -------
